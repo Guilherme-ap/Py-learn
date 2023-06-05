@@ -4,4 +4,4 @@
 <hr>
 
 Python studying 📖📚: 
-<h4> Este é um repositório póblico com o objetivo de aprender a linguagem python e passar o meu conteúdo estudo através do Github, caso deseje fazer parte apenas add uma issue.</h4> 
+<h4> Este é um repositório público com o objetivo de aprender a linguagem python e passar o meu conteúdo estudo através do Github, caso deseje fazer parte apenas add uma issue.</h4> 
